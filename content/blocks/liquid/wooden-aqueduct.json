@@ -1,5 +1,5 @@
 {
-  "type": "Pump",
+  "type": "Conduit",
   "category": "liquid",
   "name": "wooden aqueduct",
   "description": "Weakly moves liquids forward.Used in conjunction with pumps and other aqueducts",

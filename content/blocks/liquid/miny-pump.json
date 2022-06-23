@@ -1,0 +1,15 @@
+{
+  "type": "Pump",
+  "category": "liquid",
+  "name": "Miny pump",
+  "description": "Weakly pumps and outputs liquids for trees and crops.Does not require power",
+  "health": 10,
+  "size": 1,
+  "hasLiquids": "true",
+  "pumpAmount": 1,
+  "liquidCapacity": 5,
+  "requirements": [
+    "copper/25"
+  ],
+  "research": "mechanical-drill"
+}

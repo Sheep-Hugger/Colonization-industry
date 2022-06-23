@@ -1,0 +1,13 @@
+{
+  "name": "Wood",
+  "description": "Used in construction and Refined matirals",
+  "color": "895841",
+  "charge": 0,
+  "explosiveness": 0,
+  "flammability": 0.5,
+  "radioactivity": 0,
+  "hardness": 1,
+  "cost": 0.25,
+  "research": "copper",
+  "alwaysUnlocked": "false"
+}

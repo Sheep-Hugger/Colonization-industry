@@ -4,9 +4,9 @@
   "name": "Miny pump",
   "description": "Weakly pumps and outputs liquids for trees and crops.Does not require power",
   "health": 10,
-  "size": 0.02,
+  "size": 1,
   "hasLiquids": "true",
-  "pumpAmount": 1,
+  "pumpAmount": 0.02,
   "liquidCapacity": 5,
   "requirements": [
     "copper/25"

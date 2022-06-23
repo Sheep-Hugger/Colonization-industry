@@ -1,0 +1,8 @@
+name: "Colonization & industry"
+displayName: "Colonization & industry"
+author: "Radiance of Dove"
+description: "To be filled"
+version: "0.25"
+minGameVersion: "135"
+dependencies: [ ]
+hidden: false

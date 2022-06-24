@@ -1,0 +1,18 @@
+{
+  "type": "cultivator",
+  "category": "production",
+  "name": "Tree grove",
+  "description": "Grows small trees that are choped into wood",
+  "health": 10,
+  "size": 1,
+  "hasLiquids": "true",
+  "liquidCapacity": 5,
+  "consumes.liquid": 0.02,
+  "craftTime": 120,
+  "outputItem": "wood/4",
+  "requirements": [
+    "copper/30"
+  ],
+  "craftEffect": "Fx.none",
+  "research": "mechanical-drill"
+}

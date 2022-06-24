@@ -8,7 +8,7 @@
   "hasLiquids": "true",
   "itemCapacity": 24,
   "liquidCapacity": 5,
-  "consumesliquid": 0.02,
+  "consumesLiquid": 0.02,
   "craftTime": 240,
   "outputItem": "wood/4",
   "requirements": [

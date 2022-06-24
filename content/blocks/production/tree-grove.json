@@ -8,9 +8,9 @@
   "hasLiquids": "true",
   "itemCapacity": 24,
   "liquidCapacity": 5,
-  "consumesLiquid": 0.02,
   "craftTime": 240,
   "outputItem": "wood/4",
+  "consumesLiquid": "water/0.02/60",
   "requirements": [
     "copper/30"
   ],

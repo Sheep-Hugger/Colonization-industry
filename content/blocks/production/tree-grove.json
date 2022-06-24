@@ -13,6 +13,5 @@
   "requirements": [
     "copper/30"
   ],
-  "craftEffect": "none",
   "research": "miny-pump"
 }
